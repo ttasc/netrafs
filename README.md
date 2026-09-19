@@ -1,5 +1,5 @@
 # BẢN THIẾT KẾ KỸ THUẬT VÀ TRIỂN KHAI (TECHNICAL DESIGN DOCUMENT)
-**Dự án:** `netrafs` (Network Traffic Shaping System)
+**Dự án:** `netrafs` (Network Traffic Shaping System)</br>
 **Mục tiêu:** Hệ thống phân loại và định hình lưu lượng mạng tự động dựa trên AI, hoạt động zero-latency thông qua eBPF. Phù hợp chạy cục bộ trên máy cá nhân (Endpoint) hoặc làm gateway/router điều phối mạng LAN. Tôn trọng triết lý Suckless, sử dụng công nghệ tối giản, nguyên bản và hiệu năng cao.
 
 ---
